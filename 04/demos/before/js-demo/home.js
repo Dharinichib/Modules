@@ -1,8 +1,4 @@
-// show the title
-showMessage("Title...");
-let price = 149.99;
-/*
-    Detail complex logic...
-    Some algorithm...
-
-*/
+let ab = "Hiking boot",
+x = 49.999,
+discount = false;
+showMessage(ab);
