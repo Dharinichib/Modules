@@ -13,9 +13,23 @@
 //message = message + 'world';
 //message= message.toUpperCase();
 //message = message.substring(1);
-let name = 'hello';
-let message = `priy
-${name}`;
-
-showMessage(message);
+//let name = 'hello';
+//let message = `priy
+//${name}`;
+/*let amount = 123;
+amount = amount.toString();
+showMessage(typeof amount);
+let amount = Number.parseFloat("12.123A");
+let saved = false;
+saved = !saved;
+showMessage(saved);
+//let ab;
+let ab = null;
+showMessage(ab);*/
+//showMessage(message);
 //console.log(price);
+let person = {
+   firstName: 'Dharini',
+   lastName: 'Chib'
+};
+showMessage(person.firstName);
